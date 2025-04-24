@@ -1,5 +1,3 @@
-# **Brain Tumor Detection**
-
 ## **YOLO-Based Deep Learning for Automated Brain Tumor Detection and Classification in MRI**
 
 **Team:**  
@@ -33,9 +31,6 @@ MRI (Magnetic Resonance Imaging) is commonly used for visualization. However, ma
 - Time-consuming  
 - Subjective  
 - Prone to human error  
-
-**AI-powered tumor detection** offers enhanced support for radiologists, improving diagnostic accuracy and efficiency.
-
 ---
 
 ## **YOLO and Its Role in Tumor Detection**
