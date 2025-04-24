@@ -1,7 +1,5 @@
 # Brain Tumor Detection
  
-# Brain Tumor Detection
- 
 YOLO-Based Deep Learning for Automated Brain Tumor Detection and Classification in MRI
 Team: K CHARAN 22BCE1759
             K VISWADHAR 22BCE1950
@@ -35,7 +33,7 @@ This project uses YOLOv10n, the nano version, optimized for speed and resource c
 Architecture diagram
 ![alt text][architecture diagram]
 
-[architecture diagram]: architecture .png
+[architecture diagram]: image.png
 
 
 References
@@ -45,5 +43,5 @@ To access refernces [click here](https://drive.google.com/drive/folders/1D-YzYBj
 Result
 ![alt text][result image]
 
-[result image]: result image.png
+[result image]: image-1.png
 
