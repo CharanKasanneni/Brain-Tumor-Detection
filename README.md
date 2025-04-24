@@ -4,8 +4,6 @@ YOLO-Based Deep Learning for Automated Brain Tumor Detection and Classification 
 
 
 Team: K CHARAN 22BCE1759
-            
-            
       K VISWADHAR 22BCE1950
 
 About Brain Tumors and Detection
