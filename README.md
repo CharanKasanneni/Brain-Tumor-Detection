@@ -35,7 +35,7 @@ This project uses YOLOv10n, the nano version, optimized for speed and resource c
 Architecture diagram
 ![alt text][architecture diagram]
 
-[architecture diagram]: image.png
+[architecture diagram]: architecture .png
 
 
 References
@@ -45,5 +45,5 @@ To access refernces [click here](https://drive.google.com/drive/folders/1D-YzYBj
 Result
 ![alt text][result image]
 
-[result image]: image-1.png
+[result image]: result image.png
 
