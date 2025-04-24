@@ -15,8 +15,8 @@ Early and accurate detection of brain tumors is critical for:
 •	Reducing mortality rates
 •	Improving quality of life and survival rates
 Traditionally, MRI scans (Magnetic Resonance Imaging) are used to visualize brain structures. However, manual interpretation by radiologists can be time-consuming, subjective, and prone to human error. Therefore, automated tumor detection using AI is emerging as a powerful tool to assist radiologists and improve diagnostic efficiency.
-________________________________________
-🤖 YOLO and Its Role in Tumor Detection
+
+YOLO and Its Role in Tumor Detection
 What is YOLO?
 YOLO (You Only Look Once) is a state-of-the-art real-time object detection algorithm. Unlike traditional detectors that apply classification models in a sliding window fashion, YOLO frames object detection as a single regression problem and predicts bounding boxes and class probabilities directly from full images in one evaluation.
 Why YOLO for Medical Imaging?
